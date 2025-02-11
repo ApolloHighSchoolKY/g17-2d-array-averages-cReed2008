@@ -51,7 +51,7 @@ public class ArrayAverages{
           count++;
       }
     }
-    System.out.println("The average of array is: " + (double) sum / count);
+    System.out.println("The average of this array is: " + (double) sum / count);
   }
 
   public String toString(){
